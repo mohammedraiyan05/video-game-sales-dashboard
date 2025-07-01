@@ -20,11 +20,11 @@ Size: ~1MB  <br>
 Records: 11,000+ games  <br>
 <br><br>
 📌 Technologies Used<br>
-| Tool | Purpose |<br>
-|------|---------|<br>
-| Tableau | Data Visualization & Dashboard Design |<br>
-| Microsoft Excel | Preprocessing & Cleaning |<br>
-| CSV | Dataset format |<br>
+| Tool            | Purpose                               |<br>
+|-----------------|---------------------------------------|<br>
+| Tableau         | Data Visualization & Dashboard Design |<br>
+| Microsoft Excel | Preprocessing & Cleaning              |<br>
+| CSV             | Dataset format                        |<br>
 <br><br> 
 
 🖼️ Preview<br>
